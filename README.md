@@ -15,4 +15,6 @@ The Y axis represents the note.
 The length of the shape impacts the duration of the note.
 The transparency of the shape affects the amplitude of the note.
 
+Check out some of the tracks created by the program: https://soundcloud.com/user-85378285
+
 
